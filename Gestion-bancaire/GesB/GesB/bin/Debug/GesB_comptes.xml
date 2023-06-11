@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCompteCourant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CompteCourant>
+    <NumeroCompte>1</NumeroCompte>
+    <NumeroUser>1</NumeroUser>
+    <NumeroGuichet>466483</NumeroGuichet>
+    <Solde>800</Solde>
+    <CodeSecret>4586</CodeSecret>
+    <TypeCompte>Compte courant</TypeCompte>
+  </CompteCourant>
+  <CompteCourant xsi:type="CompteDecouvert">
+    <NumeroCompte>3</NumeroCompte>
+    <NumeroUser>3</NumeroUser>
+    <NumeroGuichet>123</NumeroGuichet>
+    <Solde>320500</Solde>
+    <CodeSecret>6777</CodeSecret>
+    <TypeCompte>Compte découvert</TypeCompte>
+    <Decouvert>123600</Decouvert>
+  </CompteCourant>
+  <CompteCourant xsi:type="CompteBloque">
+    <NumeroCompte>4</NumeroCompte>
+    <NumeroUser>4</NumeroUser>
+    <NumeroGuichet>423</NumeroGuichet>
+    <Solde>700000000</Solde>
+    <CodeSecret>0804</CodeSecret>
+    <TypeCompte>Compte bloqué</TypeCompte>
+    <DateDeblocage>09/04/2011</DateDeblocage>
+  </CompteCourant>
+  <CompteCourant>
+    <NumeroCompte>4</NumeroCompte>
+    <NumeroUser>4</NumeroUser>
+    <NumeroGuichet>1</NumeroGuichet>
+    <Solde>200000</Solde>
+    <CodeSecret>1360</CodeSecret>
+    <TypeCompte>Compte courant</TypeCompte>
+  </CompteCourant>
+</ArrayOfCompteCourant>

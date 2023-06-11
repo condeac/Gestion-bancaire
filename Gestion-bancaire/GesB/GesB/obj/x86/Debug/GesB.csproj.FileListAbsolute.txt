@@ -1,0 +1,30 @@
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\bin\Debug\GesB.exe
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\bin\Debug\GesB.pdb
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.CreateCompte.resources
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.CreditDebit.resources
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.frmPrincipal.resources
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.Properties.Resources.resources
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.ShowComptes.resources
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.Virements.resources
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.exe
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.pdb
+C:\Users\lez-j\documents\visual studio 2010\Projects\GesB\GesB\obj\x86\Debug\GesB.views.frmclient.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\bin\Debug\GesB.exe.config
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\bin\Debug\GesB.exe
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\bin\Debug\GesB.pdb
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.csproj.AssemblyReference.cache
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.csproj.SuggestedBindingRedirects.cache
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.CreateCompte.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.CreditDebit.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.views.frmClient.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.frmPrincipal.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.Properties.Resources.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.ShowComptes.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.Virements.resources
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.csproj.GenerateResource.cache
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.csproj.CoreCompileInputs.cache
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.exe
+C:\Users\condeac\Desktop\projetsVS\GesB\GesB\obj\x86\Debug\GesB.pdb

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <NumeroUser>1</NumeroUser>
+    <NumeroPiece>8754465</NumeroPiece>
+    <TypePiece>Carte d'identité</TypePiece>
+    <NomUser>zlejkfh</NomUser>
+    <PrenomUser>kednfoz</PrenomUser>
+    <TelephoneUser>6541989</TelephoneUser>
+    <AdresseUser>qkdnbjkzek</AdresseUser>
+  </Client>
+  <Client>
+    <NumeroUser>3</NumeroUser>
+    <NumeroPiece>894946</NumeroPiece>
+    <TypePiece>Passeport</TypePiece>
+    <NomUser>ebazogo</NomUser>
+    <PrenomUser>lionel</PrenomUser>
+    <TelephoneUser>777052591</TelephoneUser>
+    <AdresseUser>khar yalla</AdresseUser>
+  </Client>
+  <Client>
+    <NumeroUser>4</NumeroUser>
+    <NumeroPiece>134894</NumeroPiece>
+    <TypePiece>Carte d'identité</TypePiece>
+    <NomUser>oyane</NomUser>
+    <PrenomUser>elisa</PrenomUser>
+    <TelephoneUser>987433</TelephoneUser>
+    <AdresseUser>perpignan</AdresseUser>
+  </Client>
+  <Client>
+    <NumeroUser>4</NumeroUser>
+    <NumeroPiece>90564</NumeroPiece>
+    <TypePiece>Passeport</TypePiece>
+    <NomUser>CONDE</NomUser>
+    <PrenomUser>Alama</PrenomUser>
+    <TelephoneUser>085829484</TelephoneUser>
+    <AdresseUser>tanger boukhalef</AdresseUser>
+  </Client>
+</ArrayOfClient>
